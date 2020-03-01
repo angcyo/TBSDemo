@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">fileDemo</string>
+    <string name="action_settings_view">view-Settings</string>
+    <string name="action_settings_dialog">dialog-Settings</string>
+</resources>

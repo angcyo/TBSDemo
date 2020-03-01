@@ -1,0 +1,4 @@
+rootProject.name='TBSDemo'
+include ':X5WebDemo'
+include ':miniqbdemo'
+include ':filedemo'
